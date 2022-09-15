@@ -1,2 +1,4 @@
-Hi !!
-I love building cool things , learning about writing clean code and learning from other developers about neat software tricks. 
+## Hi there  👋, 
+
+I love learning new languages and frameworks. 
+- 🔭 I’m currently learning React Native
